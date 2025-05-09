@@ -1,5 +1,5 @@
 # utility-tools
-This repository contains a collection of small, practical tools built using Jupyter notebooks.
+This repository contains a collection of small, practical tools built using R, Python, and Jupyter notebooks.
 
 ## What's Inside
 This repository contains a growing collection of practical Python utilities I've built to solve specific problems:
