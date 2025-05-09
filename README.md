@@ -9,6 +9,7 @@ This repository contains a growing collection of practical Python utilities I've
 - **Keyword_matching**: Tools to efficiently match keywords across datasets, supporting both exact and fuzzy matching techniques.
 - **QR_generator**: Simple but powerful QR code generation with customization options.
 - **Webp_Converter**: Utilities for converting images to and from the WebP format.
+- **LinkedIn Invoice Table Extraction**: A tool that extracts the non-formatted table from LinkedIn invoice PDF files
 
 ## Why This Exists
 Two reasons this repository exists:
